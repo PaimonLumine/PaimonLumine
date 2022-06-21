@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @PaimonLumine
 - 👀 I’m interested in Computer Graphics and games
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Computer Engineering at Hong Kong University of Science and Technology
 
 <!---
 PaimonLumine/PaimonLumine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
