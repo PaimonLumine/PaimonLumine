@@ -8,3 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paimonlumine)]
+![Genshin_Impact](https://genshin-card.getloli.com/0-59/2620096.png)
