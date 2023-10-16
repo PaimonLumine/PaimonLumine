@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PaimonLumine
-- 👀 I’m interested in Computer Graphics and games
+
 - 🌱 I’m currently learning Computer Engineering at Hong Kong University of Science and Technology
 
 <!---
