@@ -7,7 +7,4 @@ PaimonLumine/PaimonLumine is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paimonlumine)
-![Genshin_Impact](https://genshin-card.getloli.com/0-59/2620096.png)
-[2021](https://skyline.github.com/PaimonLumine/2021)
-[2022](https://skyline.github.com/PaimonLumine/2022)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paimonlumine)](https://github.com/anuraghazra/github-readme-stats)
